@@ -16,58 +16,58 @@ Passionate about turning raw data into actionable insights and building end-to-e
 ### 🖥️ Languages  
 <p align="center">
   <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
   <a href="https://www.java.com" target="_blank">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </a>
 </p>
 
 ### 📚 Libraries & Frameworks  
 <p align="center">
   <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   </a>
   <a href="https://numpy.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   </a>
   <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   </a>
   <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
   </a>
   <a href="https://react.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   </a>
 </p>
 
 ### 🛠️ Tools  
 <p align="center">
   <a href="https://jupyter.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
 </p>
 
 ### 🗄️ Databases  
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   </a>
 </p>
 
