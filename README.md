@@ -5,23 +5,44 @@ Passionate about turning raw data into actionable insights and building end-to-e
 
 ---
 
-## 🔧 Tech Stack  
+## 👀 Profile Visitors  
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dasranjan17&label=Profile%20Views&color=blue&style=flat-square" />
+</p>
+
+## 🔧 Tech Stack
+
+### 🖥️ Languages  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### 📚 Libraries & Frameworks  
+<p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+### 🛠️ Tools  
+<p align="center">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### 🗄️ Databases  
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
+
 
 ---
 
@@ -56,14 +77,6 @@ Passionate about turning raw data into actionable insights and building end-to-e
 
 ---
 
-## 🏆 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dasranjan17&theme=onedark&margin-w=15&margin-h=15&column=7" />
-</p>
-
----
-
 ## 📈 Activity Graph  
 
 <p align="center">
@@ -72,23 +85,15 @@ Passionate about turning raw data into actionable insights and building end-to-e
 
 ---
 
-## 👀 Profile Visitors  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dasranjan17&label=Profile%20Views&color=blue&style=flat-square" />
-</p>
 
 
 ## 📫 Let’s Connect!  
 <p align="center">
-  <a href="https://linkedin.com/in/dasranjan17">
+  <a href="https://linkedin.com/in/ranjan17">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:rashmiranjandas@example.com">
+  <a href="mailto:rashmiranjan.contact+github@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>  
 
